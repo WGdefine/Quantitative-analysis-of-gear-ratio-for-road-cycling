@@ -1,0 +1,11 @@
+{
+  "rider_kg": 63.0,
+  "bicycle_and_kit_kg": 10.0,
+  "circumference_m": 2.146,
+  "rho": 1.225,
+  "cda_m2": 0.32,
+  "crr": 0.004,
+  "eta": 0.97,
+  "g": 9.80665,
+  "rotational_equivalent_kg": 1.5
+}
